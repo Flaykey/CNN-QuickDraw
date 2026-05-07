@@ -81,7 +81,7 @@ pip install torch pygame
 ```
 ###Example
 ![Airplane](images/airplane.png)
-![Alarm](images/alarm.png)
+![Alarm](images/alram.png)
 ![Angel](images/angel.png)
 ![Apple](images/apple.png)
 ![Banana](images/banana.png)
