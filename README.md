@@ -78,3 +78,24 @@ Data processing:
 ### Install dependencies
 ```python
 pip install torch pygame
+```
+###Example
+![Airplane](images/airplane)
+![Alarm](images/alarm)
+![Angel](images/angel)
+![Apple](images/apple)
+![Banana](images/banana)
+![Bicycle](images/bicycle)
+![Broom](images/brroom)
+
+
+
+
+
+
+
+
+
+
+
+
