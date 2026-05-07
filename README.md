@@ -76,3 +76,5 @@ Data processing:
 ## Running the Project
 
 ### Install dependencies
+```python
+pip install torch pygame
