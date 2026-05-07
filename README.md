@@ -80,13 +80,13 @@ Data processing:
 pip install torch pygame
 ```
 ###Example
-![Airplane](images/airplane)
-![Alarm](images/alarm)
-![Angel](images/angel)
-![Apple](images/apple)
-![Banana](images/banana)
-![Bicycle](images/bicycle)
-![Broom](images/brroom)
+![Airplane](images/airplane.png)
+![Alarm](images/alarm.png)
+![Angel](images/angel.png)
+![Apple](images/apple.png)
+![Banana](images/banana.png)
+![Bicycle](images/bicycle.png)
+![Broom](images/brroom.png)
 
 
 
