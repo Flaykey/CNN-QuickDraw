@@ -86,7 +86,7 @@ pip install torch pygame
 ![Apple](images/apple.png)
 ![Banana](images/banana.png)
 ![Bicycle](images/bicycle.png)
-![Broom](images/brroom.png)
+![Broom](images/brrom.png)
 
 
 
